@@ -1,0 +1,52 @@
+ body{
+background:url(../img/bg2.jpg) center fixed  ;
+background-size:cover;
+}
+#div_widget_meteo_paris{
+		margin-left: 50px;
+		margin-top:-10px;
+}
+
+img.img_tt{
+	display:none;
+	width:0px;
+	height:0px;
+	}
+.iframe{
+min-height:400px;
+margin-bottom:20px;
+}
+.container{
+margin-top:50px;
+}
+blockquote{
+ padding:25px 20px;
+ border-left: 5px dotted #e35d04;
+}
+.fluxRss{
+ margin-top:-10px;
+}
+.fluxRss li{
+ margin-bottom:7px;
+ color:#000;
+ font-size:1.1em;
+ font-family: Arial, sans-serif;
+}
+
+
+.trafic{
+	font-family: 'Pathway Gothic One', sans-serif;
+	color:#000000;
+	font-size:25px;
+}
+.trafic strong{
+	color:#e35d04;
+}
+.border{
+	display:block;
+ border:5px solid rgba(212,18,21,1.00); 
+}
+.CurrencyView{
+
+margin-top:50px;
+}
